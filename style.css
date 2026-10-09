@@ -755,7 +755,7 @@ details p {
   position: fixed;
   right: 18px;
   bottom: 18px;
-  z-index: 30;
+  z-index: 1000000;
   display: inline-flex;
   align-items: center;
   justify-content: center;
